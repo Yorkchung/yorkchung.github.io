@@ -1,38 +1,10 @@
 # York medium
-## Welcome to GitHub Pages
+## Welcome to York WebPages
 
-You can use the [editor on GitHub](https://github.com/Yorkchung/Yorkchung.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+這是我的文章搜尋庫
+可以透過這裡找到相關文章
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Yorkchung/Yorkchung.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. [上傳感測器資料到IOTA](https://yorkisinhere.medium.com/%E4%B8%8A%E5%82%B3%E6%84%9F%E6%B8%AC%E5%99%A8%E8%B3%87%E6%96%99%E5%88%B0iota-7a2bff2751fd)
+2. [Windows Remix IDE](https://yorkisinhere.medium.com/windows-remix-ide-f0305b9983af)
+3. [良好的目錄結構](https://yorkisinhere.medium.com/b699b067a0b0)
+4. [python 套件漏洞檢查](https://yorkisinhere.medium.com/python-%E5%A5%97%E4%BB%B6%E6%BC%8F%E6%B4%9E%E6%AA%A2%E6%9F%A5-375dfa508609)

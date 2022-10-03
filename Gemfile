@@ -1,6 +1,4 @@
 # frozen_string_literal: true
-#gem "github-pages", "~> GITHUB-PAGES-VERSION", group: :jekyll_plugins
-gem "jekyll-theme-chirpy"
 
 source "https://rubygems.org"
 

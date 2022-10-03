@@ -23,7 +23,8 @@ timezone: Asia/Taipei
 
 title: York Blog                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline:   I am a security engineer. My work involve malicious file research, and cyber intelligence analysis. I am interested in blockchain, and software engineering.
+   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   I am a security engineer. My work involve malicious file research, and cyber intelligence analysis. I am interested in blockchain, and software engineering.
@@ -47,7 +48,7 @@ social:
     - https://twitter.com/YorkChang01     # change to your twitter homepage
     - https://github.com/Yorkchung       # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
+    - https://yorkisinhere.medium.com/
     # - https://www.linkedin.com/in/username
 
 google_site_verification:               # fill in to your verification string

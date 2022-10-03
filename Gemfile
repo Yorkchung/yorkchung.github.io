@@ -5,8 +5,13 @@ source "https://rubygems.org"
 
 gemspec
 
-group :test do
+group :jekyll_plugins do
+  gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-paginate"
+  gem "jekyll-sitemap"
+  gem "jekyll-gist"
   gem "html-proofer", "~> 3.18"
+  gem "jekyll-include-cache"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
